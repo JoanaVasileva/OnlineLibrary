@@ -30,6 +30,7 @@ class Book extends Component {
           <div className="col-md-4 book-details">
             <h5>{category}</h5>
             <h4>{name}</h4>
+            <span>test</span>
             <p style={{color: "black"}}>{author}</p>
           </div>
           <div className="col-md-4 text-center progress-div">
