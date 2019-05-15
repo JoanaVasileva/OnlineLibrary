@@ -57,8 +57,7 @@ class BookModal extends Component {
   render() {
     return (
       <div>
-
-      <h2 className="display-4 text-center">Моята библиотека</h2>
+      <h2 className="display-4 text-center">Моята библиотека Test</h2>
               <p className="lead text-center">
                Ви носи редица предимства, като ви дава възможност да
                добавите книги, който желаете да прочетете и да добавите кратка информация към тях. 
